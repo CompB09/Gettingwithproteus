@@ -1,4 +1,4 @@
-# Gettingwithproteus
+# Getting with proteus
 Name: CompB09
 Date: 16th of October 2019
 Software: Proteus
